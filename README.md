@@ -1,1 +1,1 @@
-# datamining_2023
+# NAIST DATA MINING CLASS OF 2023
